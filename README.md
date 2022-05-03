@@ -8,7 +8,7 @@ Just simply follow original repo's usage section.
 
 ### Visualization
 
-I follow original repo to generate attention maps for all test image, which can be found in ```img/attn```. Here are several examples. (🚨**might be unfriendly to someone who hates bugs **)
+I follow original repo to generate attention maps for all test image, which can be found in ```img/attn```. Here are several examples. (🚨**might be unfriendly to someone who hates bugs**)
 ![fig1](./img/attn/0_12.png)
 ![fig2](./img/attn/0_43.png)
 ![fig3](./img/attn/0_46.png)
